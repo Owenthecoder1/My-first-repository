@@ -1,1 +1,1 @@
-alert("wassup")
+wassup()
