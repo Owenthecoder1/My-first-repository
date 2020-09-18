@@ -1,0 +1,3 @@
+function wassup(){
+	alert("wassup")
+}
