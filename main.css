@@ -1,7 +1,17 @@
 body{
-	background-color: blue;
+	background-color: white;
 }
 h1{
 color:white;
 text-align:center;
+}
+#mr_square{
+	width:100px;
+	height:100px;
+	background-color:red;
+	margin-left:-50px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-50px;
 }
